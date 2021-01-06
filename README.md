@@ -1,7 +1,7 @@
 ## Kelly's Hello World App
 
 ### App Description
-This app allows you to change the background color of the app with the "Change View Color" button and change the color of the text with the "Change Text Color" button. In addition a user can type in text with the "Change Text String" button and change the default "Hello from Kelly" view on the screen.If there is no text in the text field when the "Change Text String" button is pressed is "Goodbye 👋" is automatically added. Lastly if you click on the background you are able to reset the view to the default setting.
+This app allows you to change the background color of the app with the "Change View Color" button and change the color of the text with the "Change Text Color" button. In addition a user can can change the default "Hello from Kelly" viewm by typing in text and pressing the "Change Text String" button. If there is no text in the text field when the "Change Text String" button is pressed "Goodbye 👋" is automatically written. Lastly if you click on the background you are able to reset the view to the default setting.
 
 ### App Walk-though
 
